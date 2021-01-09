@@ -1,11 +1,1 @@
-.DS_Store/
-.idea/
-node_modules/
-coverage/
-dist/
-public/
-*.map
-out.txt
-.now
-yarn.lock
-package-lock.json
+node_modules
